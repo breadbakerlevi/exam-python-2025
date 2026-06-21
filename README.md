@@ -9,9 +9,9 @@ A written home exam covering core Python concepts: control flow, file handling, 
  
 ## Exam Questions
  
-* **Question 1:** A word guessing game where the player reveals a randomly chosen word by guessing one letter at a time.
+* **Question 1:** A word guessing game. The player reveals a randomly chosen word by guessing one letter at a time.
 * **Question 2:** A library system built with classes, handling adding, removing, and checking books in/out.
-* **Question 3:** A menu-driven bank account program supporting deposits, withdrawals, interest, and balance checks.
+* **Question 3:** A menu-driven bank account program covering deposits, withdrawals, interest, and balance.
 * **Question 4:** A function that determines whether a given string is a palindrome.
 ## How to run
  
