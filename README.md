@@ -3,7 +3,6 @@
 **Course:** Python Programming (7.5 ECTS)  
 **Version:** Python 3.12  
 **Institution:** Kristiania University College  
-**Grade:** A
  
 A written home exam covering core Python concepts: control flow, file handling, object-oriented programming, and basic data structures.
  
