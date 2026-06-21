@@ -8,13 +8,13 @@ import random
 def read_file():
     words = []
     try:
-        file = open("Q1_words.txt", "r")
+        file = open("Question_1_words.txt", "r")
         for line in file:
             words.append(line.strip().lower())
         file.close()
         return words
     except IOError:
-        print("Error reading Q1_words.txt!")
+        print("Error reading Question_1_words.txt!")
         return []
     
     
