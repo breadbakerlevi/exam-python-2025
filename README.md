@@ -1,4 +1,4 @@
-# PGR107 - Python Programming Final Exam
+# Python Programming Final Exam
  
 **Course:** Python Programming (7.5 ECTS)  
 **Version:** Python 3.12  
