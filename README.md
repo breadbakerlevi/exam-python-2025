@@ -1,4 +1,4 @@
-# Python Programming Final Exam
+# Python Programming Exam
  
 **Course:** Python Programming (7.5 ECTS)  
 **Version:** Python 3.12  
